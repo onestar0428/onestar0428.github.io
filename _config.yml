@@ -24,7 +24,7 @@ url                      : "https://onestar0428.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onestar0428/onestar0428.github.io"
 teaser                   : ""
-logo                     : "/image/profile.jped" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/image/profile.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -115,18 +115,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dooy0428@gmail.com
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gkswndus10@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/onestar0428/onestar0428.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/onestar0428"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 # Site Footer
 footer:
